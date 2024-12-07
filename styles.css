@@ -44,8 +44,8 @@ body {
 }
 
 .search-container {
-    margin-left: 20px;
-    font-size: 3em;
+    padding-left: 20px;
+    font-size: 2em;
     border: none;
 }
 
