@@ -3,7 +3,6 @@ body {
     box-sizing:border-box;
     margin: 0;
     padding: 0;
-    width: 100dvw;
     height: 100dvh; 
     grid-template-columns: 1fr 6fr;
     grid-template-rows: minmax(min-content, 1fr) minmax(min-content, 4fr);
@@ -137,7 +136,7 @@ button.s {
     overflow: auto;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     align-content: start;
-    padding-left: 20px;
+    padding: 20px;
     gap: 15px;
 }
 
